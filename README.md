@@ -13,4 +13,11 @@ A buffer is a temporary memory that a stream takes to hold some data until it is
 The on method binds an event to a object.
 
 It is a way to express your intent if there is something happening, then execute the function added as a parameter. This style of programming is called Event-driven programming.
+
+
+
+
+
+How web works?
+client => request => server => response => client
 ---
